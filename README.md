@@ -51,5 +51,10 @@ L’objectif est de modéliser et résoudre différents problèmes d’optimisat
 
 ## Auteur
 
-Nom : yahya sidaty El hachmy  
+Nom : Yahya Sidaty El Hachmy 
+Matricule : C26698
+
+Nom : Mohamed Saiid Mohameden
+Matricule :27186
+
 Année universitaire : 2025-2026
